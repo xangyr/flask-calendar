@@ -3,6 +3,9 @@
 # flask-calendar
 
 ## Introduction
+Welcome Blockchain@PSU Students, we are going to work on ths project as the semester continues. This current app is a creat templete to start you proffessional programming life. We will work on building fuctions to this calender. As always please feel free to reach out to Royce L D'Souza (rld504@psu.edu) with questions. But this project exppects a high level of autonnomy. 
+
+An importat skill is not only being able to code, bbut being able to findd the answers you dont have. In this project you will be working through various assignments as the semester coontinues. I look forward to hearning some great ideas and feedback. And as always during important times, I highly encourage studentss to use this project as a boiler plate in competations, as long as you have safficintly improved it, and given the right credit.
 
 I recently (dec 2017) decided I wanted to opt out from Google services as much as possible. One of the services that tied me most was Calendar. There are not many alternatives, and even fewer web-based. I decided to try using a Trello board with due dates and some labels for a while, but proved to be harder to maintain. Add the lack of a month calendar view, and no support for recurrent/repetitive tasks, and I decided to do good use of a holidays to spend some hours and build a simple GCalendar clone.
 
