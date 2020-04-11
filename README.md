@@ -1,3 +1,13 @@
+# 要求
+
+1. Follow the instructions in the Requirements section to set up the software.
+2. Add the following at least 4 calendar events:
+    * The next date of the workshop (Colored RED)
+    * Your name(s) on any visible date on the calendar (Colored Blue)
+    * 2 random but important events in your life
+3. Take a Screenshot of the webpage
+4. Write a 50-150 word summary:
+
 [![CircleCI](https://circleci.com/gh/Kartones/flask-calendar/tree/master.svg?style=svg)](https://circleci.com/gh/Kartones/flask-calendar/tree/master)
 
 # flask-calendar
