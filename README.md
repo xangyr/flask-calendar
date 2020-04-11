@@ -6,7 +6,8 @@
     * Your name(s) on any visible date on the calendar (Colored Blue)
     * 2 random but important events in your life
 3. Take a Screenshot of the webpage
-4. Write a 50-150 word summary:
+
+https://github.com/xangyr/flask-calendar
 
 [![CircleCI](https://circleci.com/gh/Kartones/flask-calendar/tree/master.svg?style=svg)](https://circleci.com/gh/Kartones/flask-calendar/tree/master)
 
